@@ -1,4 +1,4 @@
-# LumenGuild (Stellar White Belt Submission)
+# LumenGuild 
 
 ![LumenGuild Hero Placeholder](./public/hero-placeholder.png)
 
@@ -100,10 +100,3 @@ A basic Soroban smart contract for LumenGuild has been deployed to the Stellar T
 - **Explorer Link:** [Stellar Expert](https://stellar.expert/explorer/testnet/contract/CACBOTO26HWBQU5V2W6XHUTOIMLRNR4HS47RMPCIAZVLBJFHQO4UKCBJ)
 - **Source Code:** Located in `contract/src/lib.rs`
 
-## Future Improvements
-- **Smart Contracts (Soroban):** Connect the frontend to the deployed on-chain smart contract for state management.
-- **Stablecoin Support:** Allow settlements in USDC instead of just XLM.
-- **Database Integration:** Replace LocalStorage with a proper backend (e.g., Supabase or Firebase) to sync data across members.
-
-## License
-MIT License
